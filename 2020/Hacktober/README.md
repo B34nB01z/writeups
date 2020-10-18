@@ -32,6 +32,8 @@ _to-be-written_
 * **Linux**
   * [30pts - Talking to the Dead 1](Talking%20to%20the%20Dead%201/README.md)
   * [30pts - Talking to the Dead 2](Talking%20to%20the%20Dead%202/README.md)
+  * [100pts - Talking to the Dead 3](Talking%20to%20the%20Dead%203/README.md)
+  * [300pts - Talking to the Dead 4](Talking%20to%20the%20Dead%204/README.md)
 
 ---
 
