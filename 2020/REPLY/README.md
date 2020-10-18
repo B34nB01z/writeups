@@ -7,6 +7,7 @@ _St4nn1ng R-B0y_
 ## About
 
 **Duration:** 9th Oct, 2020 19:30 CEST - 10th Oct, 2020 19:30 CEST
+
 **Description**:
 ```txt
 Reply will once again be hosting its Reply Cyber Security Challenge, a team competition open to both students and professionals aged 16+. The online challenge will take place on Friday October 9th 2020 at 19:30 CEST and will last 24 hours.
@@ -17,6 +18,7 @@ After the second edition last year, in which over 6,690 people from 87 countries
 
 Designed by the Keen Minds team, Reply's cyber security experts, the Cyber Security Challenge is just one of a number of Reply initiatives to promote the culture of coding, with a particular focus on new generations.
 ```
+
 **Website:** [replychallenges.com](https://replychallenges.com/CyberSecurityCTF)
 
 ## Conclusion
