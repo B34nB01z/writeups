@@ -12,6 +12,7 @@ This document contains the corresponding color codes for the different CTF categ
 | Category | Color Code | Preview                                                       |
 |----------|------------|---------------------------------------------------------------|
 | Bonus    | #00ff49    | ![color](https://via.placeholder.com/15/00ff49/000000?text=+) |
+| Coding | #ff8f00 | ![color](https://via.placeholder.com/15/ff8f00/000000?text=+) |
 | Crypto | #e8ff00 | ![color](https://via.placeholder.com/15/e8ff00/000000?text=+) |
 | Forensics | #8700ff | ![color](https://via.placeholder.com/15/8700ff/000000?text=+) |
 | Linux | #ff00ff | ![color](https://via.placeholder.com/15/ff00ff/000000?text=+) |
@@ -26,6 +27,8 @@ This document contains the corresponding color codes for the different CTF categ
 | Steganography | #ffec00 | ![color](https://via.placeholder.com/15/ffec00/000000?text=+) |
 | Traffic Analysis | #2e00ff | ![color](https://via.placeholder.com/15/2e00ff/000000?text=+) |
 | Web | #0042ff | ![color](https://via.placeholder.com/15/0042ff/000000?text=+) |
+
+**Please always use ![color](https://via.placeholder.com/15/90c0f0/000000?text=+) #9cf for the points!**
 
 ---
 
