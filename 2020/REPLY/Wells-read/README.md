@@ -1,6 +1,6 @@
 # Wells-read
 
-![Coding](https://img.shields.io/badge/Coding--orange?style=for-the-badge) ![Points - 100](https://img.shields.io/badge/Points-100-9cf?style=for-the-badge)
+![Coding](https://img.shields.io/badge/Coding--ff8f00?style=for-the-badge) ![Points - 100](https://img.shields.io/badge/Points-100-9cf?style=for-the-badge)
 
 ```txt
 R-Boy finds the time machine, which Zer0 used to travel to another era. Nearby, lies a copy of HG Wells’ The Time Machine. Could this book from the past help R-Boy travel in time? Unfortunately, R-Boy can’t read or understand it, because the space-time continuum has changed some of the words. Help R-Boy to start his time travels!
