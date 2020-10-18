@@ -1,6 +1,6 @@
 # Captured Memories
 
-![Forensics](https://img.shields.io/badge/Forensics--blueviolet?style=for-the-badge) ![Points - 30](https://img.shields.io/badge/Points-30-9cf?style=for-the-badge)
+![Forensics](https://img.shields.io/badge/Forensics--8700ff?style=for-the-badge) ![Points - 30](https://img.shields.io/badge/Points-30-9cf?style=for-the-badge)
 
 ```txt
 We found some unusual activity coming from an employee's Windows 10 workstation at De Monne Financial. Our IT guy saved the memory dump to the file provided below. What was the PID of the program used to capture the memory dump?  Submit the flag as flag{PID}.

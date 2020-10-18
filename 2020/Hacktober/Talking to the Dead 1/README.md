@@ -1,6 +1,6 @@
 # Talking to the Dead 1
 
-![Linux](https://img.shields.io/badge/Linux--ff69b4?style=for-the-badge) ![Points - 30](https://img.shields.io/badge/Points-30-9cf?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux--ff00ff?style=for-the-badge) ![Points - 30](https://img.shields.io/badge/Points-30-9cf?style=for-the-badge)
 
 ```txt
 We've obtained access to a server maintained by spookyboi. There are four flag files that we need you to read and submit (flag1.txt, flag2.txt, etc). Submit the contents of flag1.txt.

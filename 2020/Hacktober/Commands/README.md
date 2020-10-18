@@ -1,6 +1,6 @@
 # Commands
 
-![Forensics](https://img.shields.io/badge/Forensics--blueviolet?style=for-the-badge) ![Points - 100](https://img.shields.io/badge/Points-100-9cf?style=for-the-badge)
+![Forensics](https://img.shields.io/badge/Forensics--8700ff?style=for-the-badge) ![Points - 100](https://img.shields.io/badge/Points-100-9cf?style=for-the-badge)
 
 ```txt
 What was the command used with the malicious explorer.exe? Submit the entire command as the flag: flag{program.exe --options argument}.

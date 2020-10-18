@@ -1,6 +1,6 @@
 # Evil Twin
 
-![Forensics](https://img.shields.io/badge/Forensics--blueviolet?style=for-the-badge) ![Points - 150](https://img.shields.io/badge/Points-150-9cf?style=for-the-badge)
+![Forensics](https://img.shields.io/badge/Forensics--8700ff?style=for-the-badge) ![Points - 150](https://img.shields.io/badge/Points-150-9cf?style=for-the-badge)
 
 ```txt
 One of the junior analysts thinks that there is a duplicate process - an "evil twin" - masquerading as a legitimate process. What is the name of the malicious process?  Submit the flag as flag{process_name.ext}

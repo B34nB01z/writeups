@@ -1,6 +1,6 @@
 # Public Service
 
-![Bonus](https://img.shields.io/badge/Bonus--success?style=for-the-badge) ![Points - 100](https://img.shields.io/badge/Points-100-9cf?style=for-the-badge)
+![Bonus](https://img.shields.io/badge/Bonus--00ff49?style=for-the-badge) ![Points - 100](https://img.shields.io/badge/Points-100-9cf?style=for-the-badge)
 
 ```txt
 There is a flag associated with the malicious process from Evil Twin on a popular site used to check malware hashes. Find and submit that flag.

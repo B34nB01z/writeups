@@ -1,6 +1,6 @@
 # Hell Spawn 1
 
-![Forensics](https://img.shields.io/badge/Forensics--blueviolet?style=for-the-badge) ![Points - 100](https://img.shields.io/badge/Points-100-9cf?style=for-the-badge)
+![Forensics](https://img.shields.io/badge/Forensics--8700ff?style=for-the-badge) ![Points - 100](https://img.shields.io/badge/Points-100-9cf?style=for-the-badge)
 
 ```
 What was the name of the process that spawned the malicious explorer.exe? Submit the flag as the name and extension of the process and the PID of the process, separated by an underscore: flag{process_name.ext_PID}
