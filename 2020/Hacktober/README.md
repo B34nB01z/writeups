@@ -35,8 +35,10 @@ _to-be-written_
   * [100pts - Talking to the Dead 3](Talking%20to%20the%20Dead%203/README.md)
   * [300pts - Talking to the Dead 4](Talking%20to%20the%20Dead%204/README.md)
 * **Traffic Analysis**
+  * [20pts - An Evil Christmas Carol 1](An%20Evil%20Christmas%20Carol%201/README.md)
   * [20pts - Evil Corp's Child 1](Evil%20Corp's%20Child%201/README.md)
   * [20pts - Remotely Administrated Evil 1](Remotely%20Administrated%20Evil%201/README.md)
+  * [50pts - An Evil Christmas Carol 2](An%20Evil%20Christmas%20Carol%202/README.md)
   * [50pts - Remotely Administrated Evil 2](Remotely%20Administrated%20Evil%202/README.md)
   * [75pts - Evil Corp's Child 2](Evil%20Corp's%20Child%202/README.md)
   * [150pts - Evil Corp's Child 3](Evil%20Corp's%20Child%203/README.md)
