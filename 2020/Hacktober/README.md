@@ -20,6 +20,14 @@ This event is brought to you by CyberUp, Cyber Hacktics, and United States Air F
 
 _to-be-written_
 
+## Index
+
+* **Forensics**
+  * [30pts - Captured Memories](Captured%20Memories/README.md)
+  * [150pts - Evil Twin](Evil%20Twin/README.md)
+* **Bonus**
+  * [100pts - Public Service](Public%20Service/README.md)
+
 ---
 
 ... B34nB01z (October 2020)
