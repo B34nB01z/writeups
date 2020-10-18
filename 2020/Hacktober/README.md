@@ -29,6 +29,9 @@ _to-be-written_
   * [150pts - Evil Twin](Evil%20Twin/README.md)
 * **Bonus**
   * [100pts - Public Service](Public%20Service/README.md)
+* **Linux**
+  * [30pts - Talking to the Dead 1](Talking%20to%20the%20Dead%201/README.md)
+  * [30pts - Talking to the Dead 2](Talking%20to%20the%20Dead%202/README.md)
 
 ---
 
