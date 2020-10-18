@@ -1,6 +1,6 @@
 # Maze Graph
 
-![Web](https://img.shields.io/badge/Web--blue?style=for-the-badge) ![Points - 100](https://img.shields.io/badge/Points-100-9cf?style=for-the-badge)
+![Web](https://img.shields.io/badge/Web--0042ff?style=for-the-badge) ![Points - 100](https://img.shields.io/badge/Points-100-9cf?style=for-the-badge)
 
 ```txt
 Now R-Boy can start his chase. He lands in 1230 BC during the reign of Ramses II. In the Valley of the Temples, Zer0 has plundered Nefertiti’s tomb to resell the precious treasures on the black market. By accident, the guards catch R-Boy near the tomb. To prove he’s not a thief, he has to show his devotion to the Pharaoh by finding a secret note.

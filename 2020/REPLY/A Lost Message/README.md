@@ -1,6 +1,6 @@
 # A Lost Message
 
-![Crypto](https://img.shields.io/badge/Crypto--f5f10a?style=for-the-badge) ![Points - 100](https://img.shields.io/badge/Points-100-9cf?style=for-the-badge)
+![Crypto](https://img.shields.io/badge/Crypto--e8ff00?style=for-the-badge) ![Points - 100](https://img.shields.io/badge/Points-100-9cf?style=for-the-badge)
 
 ```txt
 Once again, R-Boy has to discover where Zer0 went. Help him one more time to decrypt the space-time coordinates.
