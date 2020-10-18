@@ -15,4 +15,4 @@ From the last stage of this challenge, you still have the IP address of the _inf
 
 ![Wireshark](./wireshark.png)
 
-... on should really stick out! This is already the flag: `flag{vlcafxbdjtlvlcduwhga.com}`
+... one should really stick out! This is already the flag: `flag{vlcafxbdjtlvlcduwhga.com}`
