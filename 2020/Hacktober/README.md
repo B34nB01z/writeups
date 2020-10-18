@@ -22,18 +22,22 @@ _to-be-written_
 
 ## Index
 
+* **Bonus**
+  * [100pts - Public Service](Public%20Service/README.md)
 * **Forensics**
   * [30pts - Captured Memories](Captured%20Memories/README.md)
   * [100pts - Hell Spawn 1](Hell%20Spawn%201/README.md)
   * [100pts - Commands](Commands/README.md)
   * [150pts - Evil Twin](Evil%20Twin/README.md)
-* **Bonus**
-  * [100pts - Public Service](Public%20Service/README.md)
 * **Linux**
   * [30pts - Talking to the Dead 1](Talking%20to%20the%20Dead%201/README.md)
   * [30pts - Talking to the Dead 2](Talking%20to%20the%20Dead%202/README.md)
   * [100pts - Talking to the Dead 3](Talking%20to%20the%20Dead%203/README.md)
   * [300pts - Talking to the Dead 4](Talking%20to%20the%20Dead%204/README.md)
+* Traffic Analysis
+  * [20pts - Evil Corp's Child 1](Evil%20Corp's%20Child%201/README.md)
+  * [75pts - Evil Corp's Child 2](Evil%20Corp's%20Child%202/README.md)
+  * [150pts - Evil Corp's Child 3](Evil%20Corp's%20Child%203/README.md)
 
 ---
 
