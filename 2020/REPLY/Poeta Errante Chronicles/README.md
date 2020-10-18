@@ -1,6 +1,6 @@
 # POETA ERRANTE CHRONICLES
 
-![Misc](https://img.shields.io/badge/Misc--fc03c6?style=for-the-badge) ![Points - 100](https://img.shields.io/badge/Points-100-9cf?style=for-the-badge)
+![Miscellaneous](https://img.shields.io/badge/Misc--ff0049?style=for-the-badge) ![Points - 100](https://img.shields.io/badge/Points-100-9cf?style=for-the-badge)
 
 ```txt
 The space-time coordinates bring R-boy to Florence in 1320 AD. Zer0 has just stolen the unpublished version of the "Divine Comedy" from its real author, the "Wandering Poet", giving it to his evil brother, Dante.
