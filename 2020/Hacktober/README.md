@@ -24,6 +24,8 @@ _to-be-written_
 
 * **Forensics**
   * [30pts - Captured Memories](Captured%20Memories/README.md)
+  * [100pts - Hell Spawn 1](Hell%20Spawn%201/README.md)
+  * [100pts - Commands](Commands/README.md)
   * [150pts - Evil Twin](Evil%20Twin/README.md)
 * **Bonus**
   * [100pts - Public Service](Public%20Service/README.md)
