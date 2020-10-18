@@ -25,6 +25,15 @@ Designed by the Keen Minds team, Reply's cyber security experts, the Cyber Secur
 
 _to-be-written_
 
+## Index
+* **Coding**
+  * [100pts - Wells-read](Wells-read/README.md)
+* **Miscellaneous**
+  * [100pts - Poeta Errante Chronicles](Poeta%20Errante%20Chronicles/README.md)
+* **Crypto**
+  * [100pts - A Lost Message](A%20Lost%20Message/README.md)
+* **Web**
+  * [100pts - Maze Graph](Maze%20Graph/README.md)
 ---
 
 ... B34nB01z (October 2020)
