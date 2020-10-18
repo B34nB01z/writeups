@@ -1,4 +1,4 @@
-# Wells-read
+# Maze Graph
 
 ![Web](https://img.shields.io/badge/Web--blue?style=for-the-badge) ![Points - 100](https://img.shields.io/badge/Points-100-9cf?style=for-the-badge)
 
