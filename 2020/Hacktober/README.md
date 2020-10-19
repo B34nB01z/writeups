@@ -34,6 +34,11 @@ _to-be-written_
   * [30pts - Talking to the Dead 2](Talking%20to%20the%20Dead%202/README.md)
   * [100pts - Talking to the Dead 3](Talking%20to%20the%20Dead%203/README.md)
   * [300pts - Talking to the Dead 4](Talking%20to%20the%20Dead%204/README.md)
+* **Programming**
+  * [10pts - Message in an Array](Message%20in%20an%20Array/README.md)
+  * [50pts - Trick or Treat](Trick%20or%20Treat/README.md)
+  * [125pts - Haunted Mirror](Haunted%20Mirror/README.md)
+  * [250pts - Red Rum](Red%20Rum/README.md)
 * **Traffic Analysis**
   * [20pts - An Evil Christmas Carol 1](An%20Evil%20Christmas%20Carol%201/README.md)
   * [20pts - Evil Corp's Child 1](Evil%20Corp's%20Child%201/README.md)
