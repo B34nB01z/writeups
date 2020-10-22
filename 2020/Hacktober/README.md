@@ -24,6 +24,10 @@ _to-be-written_
 
 * **Bonus**
   * [100pts - Public Service](Public%20Service/README.md)
+* **Crypto**
+  * [10pts - Hail Caesar!](Hail%20Caesar!/README.md)
+  * [10pts - Down the Wrong Path](Down%20the%20Wrong%20Path/README.md)
+  * [80pts - Bone to Pick](Bone%20to%20Pick/README.md)
 * **Forensics**
   * [30pts - Captured Memories](Captured%20Memories/README.md)
   * [100pts - Hell Spawn 1](Hell%20Spawn%201/README.md)
