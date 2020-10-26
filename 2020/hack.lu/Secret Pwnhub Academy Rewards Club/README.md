@@ -87,7 +87,7 @@ That's all nice and dandy, but, to be frank, we were more interested in the `pro
 
 Okay! This is already pretty much enough to create a fully functioning exploit! The only thing missing now was some shellcode to redirect execution to! We found that on [shell-storm.org](http://shell-storm.org/shellcode/files/shellcode-83.php).
 
-If you want to take a look at the final `exploit.py` script, you'll find it in this directory. Here's a short summary of what it does:
+If you want to take a look at the final `exploit.py` script, you'll find it [here](./exploit.py). Here's a short summary of what it does:
 
 1. read the address of the char array on the stack from the process' output
 2. construct an exploit string with shellcode at the beginning (padded to a length of 184 bytes).
