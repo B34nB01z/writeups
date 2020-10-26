@@ -1,6 +1,6 @@
 # FluxCloud Serverless
 
-![Web](https://img.shields.io/badge/Web--blue?style=for-the-badge) ![Points - 132](https://img.shields.io/badge/Points-132-9cf?style=for-the-badge)
+![Web](https://img.shields.io/badge/Web--0042ff?style=for-the-badge) ![Points - 132](https://img.shields.io/badge/Points-132-9cf?style=for-the-badge)
 
 ```txt
 To host stuff like our website, we developed our own cloud because we do not trust the big evil corporations! Of course we use cutting edge technologies, like serverless. Since we know what we are doing, it is totally unhackable. If you want to try, you can check out the demo and if you can access the secret, you will even get a reward :)

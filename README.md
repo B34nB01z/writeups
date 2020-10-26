@@ -14,6 +14,7 @@ Please, feel free to point out any errors you may find or suggestions you want t
 * **2020**
   * [REPLY Cyber Security Challenge](2020/REPLY/README.md)
   * [Hacktober CTF](2020/Hacktober/README.md)
+  * [Hack.lu CTF](2020/hack.lu/README.md)
 
 ---
 
