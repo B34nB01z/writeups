@@ -1,4 +1,4 @@
-# Secret Pwnhub Academy Rewards Club
+# Secret Pwnhub Academy Rewards Club 2
 
 ![Pwn](https://img.shields.io/badge/Pwn--00aaff?style=for-the-badge) ![Points - 312](https://img.shields.io/badge/Points-312-9cf?style=for-the-badge)
 
