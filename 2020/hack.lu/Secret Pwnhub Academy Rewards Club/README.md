@@ -63,7 +63,7 @@ Run the script, connect to it with `nc localhost 4444` set a breakpoint after th
 
 Well... this makes the `fn()` function all the more interesting! If `read()` reads input into the `auStack128` buffer, then it's in fact reading a maximum of `0x200` bytes (`512 bytes`) into a buffer that is only `128 bytes` large - we can definitely overflow that!
 
-It was at this point that we felt a bit lost, since we didn't know to much about the `SPARC` architecture and where, or even if, it stores the function return pointers on the stack.
+It was at this point that we felt a bit lost, since we didn't know too much about the `SPARC` architecture and where, or even if, it stores the function return pointers on the stack.
 
 In the end, we simply used the `pwntools.cyclic()` function to generate a 512 byte `De Bruijn sequence` and passed it as input to the `sparc-1` process that had GDB attached. Now we simply had to see if the execution fails and where it fails:
 
