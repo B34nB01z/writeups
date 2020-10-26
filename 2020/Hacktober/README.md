@@ -38,11 +38,20 @@ _to-be-written_
   * [30pts - Talking to the Dead 2](Talking%20to%20the%20Dead%202/README.md)
   * [100pts - Talking to the Dead 3](Talking%20to%20the%20Dead%203/README.md)
   * [300pts - Talking to the Dead 4](Talking%20to%20the%20Dead%204/README.md)
+* **OSINT**
+  * [10pts - Creeping 1](Creeping%201/README.md)
+  * [10pts - Creeping 2](Creeping%202/README.md)
+  * [10pts - Creeping 3](Creeping%203/README.md)
+  * [20pts - Past Attacks](Past%20Attacks/README.md)
+  * [30pts - Creeping 4](Creeping%204/README.md)
 * **Programming**
   * [10pts - Message in an Array](Message%20in%20an%20Array/README.md)
   * [50pts - Trick or Treat](Trick%20or%20Treat/README.md)
   * [125pts - Haunted Mirror](Haunted%20Mirror/README.md)
   * [250pts - Red Rum](Red%20Rum/README.md)
+* **SQL**
+  * [30pts - Past Demons](Past%20Demons/README.md)
+  * [50pts - Address Book](Address%20Book/README.md)
 * **Traffic Analysis**
   * [20pts - An Evil Christmas Carol 1](An%20Evil%20Christmas%20Carol%201/README.md)
   * [20pts - Evil Corp's Child 1](Evil%20Corp's%20Child%201/README.md)

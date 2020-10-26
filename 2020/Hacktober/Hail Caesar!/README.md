@@ -2,7 +2,7 @@
 
 ![Crypto](https://img.shields.io/badge/Crypto--e8ff00?style=for-the-badge) ![Points - 10](https://img.shields.io/badge/Points-10-9cf?style=for-the-badge)
 
-```
+```txt
 This image was found in Ghost Town along with the encoded message below. See if you can decipher the message. Enter the entire decoded message as the flag.
 Decode this: TGG KUSJWV QGM
 ```
