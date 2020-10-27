@@ -28,6 +28,8 @@ _to-be-written_
   * [312pts - Secret Pwnhub Academy Rewards Club 2](Secret%20Pwnhub%20Academy%20Rewards%20Club%202/README.md)
 * **Web**
   * [132pts - FluxCloud Serverless](FluxCloud%20Serverless/README.md)
+* **Misc**
+  * [127pts - Callboy](Callboy/README.md)
 
 ---
 
