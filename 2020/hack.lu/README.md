@@ -23,13 +23,14 @@ _to-be-written_
 
 ## Index
 
+* **Misc**
+  * [127pts - Callboy](Callboy/README.md)
+  * [190pts - P*rn Protocol](P*rn%20Protocol/README.md)
 * **Pwn**
   * [194pts - Secret Pwnhub Academy Rewards Club](Secret%20Pwnhub%20Academy%20Rewards%20Club/README.md)
   * [312pts - Secret Pwnhub Academy Rewards Club 2](Secret%20Pwnhub%20Academy%20Rewards%20Club%202/README.md)
 * **Web**
   * [132pts - FluxCloud Serverless](FluxCloud%20Serverless/README.md)
-* **Misc**
-  * [127pts - Callboy](Callboy/README.md)
 
 ---
 
