@@ -19,7 +19,13 @@ For more information on the Hack.lu 2020 conference, see: https://2020.hack.lu/ 
 
 ## Conclusion
 
-_to-be-written_
+I really enjoyed participating in this CTF! (I hope my team mates did too ^^).
+
+Even though most of the tasks were already a bit more challenging, it didn't feel too overwhelming or unsolveable.
+
+Of course I liked the `pwn` category the most, considering that I spent the most time on solving these types of challenges, but I also enjoyed simply implementing a protocol using Python in between :).
+
+To summarize, in my opinion, this was one of the most enjoyable CTFs this year!
 
 ## Index
 

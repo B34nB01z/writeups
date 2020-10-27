@@ -18,7 +18,13 @@ This event is brought to you by CyberUp, Cyber Hacktics, and United States Air F
 
 ## Conclusion
 
-_to-be-written_
+I would gladly participate in this CTF again next year!
+
+Even though most of the challenges weren't all that difficult, so we were able to solve many of them pretty quickly, they still weren't boring. I even learned some new hacking skills and tricks whilst solving some of the more challenging tasks.
+
+One thing that was kind of unfortunate, however, was the fact that we didn't pay enough attention to when the CTF ends ^^. This led to us sadly being asleep while many of the later challenges were being released and still not haven awoken, once the CTF had already ended - this definitely cost us a lot of points as well :,(.
+
+But, to sum up, a really enjoyable, rather entry-level CTF!
 
 ## Index
 
