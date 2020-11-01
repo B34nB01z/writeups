@@ -26,6 +26,7 @@ It was great fun participating in this CTF and we will definitely return next ye
 ## Index
 
 * **Misc**
+  * [125pts - Lorem Ipsum](Lorem%20Ipsum/README.md)
   * [450pts - Bashing My Head](Bashing%20My%20Head/README.md)
 * **Crypto**
   * [450pts - (un)F0r7un@t3](unfortunate/README.md)
