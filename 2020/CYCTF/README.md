@@ -26,7 +26,7 @@ It was great fun participating in this CTF and we will definitely return next ye
 ## Index
 
 * **Misc**
-  * [450pts - Bashing My Head]
+  * [450pts - Bashing My Head](Bashing%20My%20Head/README.md)
 
 ---
 
