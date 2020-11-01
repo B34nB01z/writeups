@@ -49,6 +49,10 @@ It was great fun participating in this CTF and we will definitely return next ye
 * **Shebang**
   * [125pts - shebang0](shebang0/README.md)
   * [125pts - shebang1](shebang1/README.md)
+  * [150pts - shebang2](shebang2/README.md)
+  * [150pts - shebang3](shebang3/README.md)
+  * [200pts - shebang4](shebang4/README.md)
+  * [250pts - shebang5](shebang5/README.md)
 
 ---
 
