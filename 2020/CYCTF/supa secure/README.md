@@ -1,6 +1,6 @@
 # supa secure
 
-![Password-cracking](https://img.shields.io/badge/Password cracking--780707?style=for-the-badge) ![Points - 225](https://img.shields.io/badge/Points-225-9cf?style=for-the-badge)
+![Password-cracking](https://img.shields.io/badge/Password%20cracking--780707?style=for-the-badge) ![Points - 225](https://img.shields.io/badge/Points-225-9cf?style=for-the-badge)
 
 ```txt
 This time it’s a little tricker to crack the password: 19d14c463333a41a1538dbf9eb76aadf

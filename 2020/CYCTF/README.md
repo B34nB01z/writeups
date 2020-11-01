@@ -34,6 +34,7 @@ It was great fun participating in this CTF and we will definitely return next ye
 * **OSINT**
   * [150pts - Back to the Future IV](Back%20to%20the%20Future%20IV/README.md)
 * **Forensics**
+  * [225pts - Flag delivery](Flag%20delivery/README.md)
   * [300pts - Steg2](Steg2/README.md)
   * [450pts - I'm Not Lying](I'm%20Not%20Lying/README.md)
 * **Password-cracking**

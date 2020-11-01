@@ -1,6 +1,6 @@
 # Me, Myself, and I
 
-![Password-cracking](https://img.shields.io/badge/Password cracking--780707?style=for-the-badge) ![Points - 225](https://img.shields.io/badge/Points-225-9cf?style=for-the-badge)
+![Password-cracking](https://img.shields.io/badge/Password%20cracking--780707?style=for-the-badge) ![Points - 225](https://img.shields.io/badge/Points-225-9cf?style=for-the-badge)
 
 ```txt
 What even is this hash??? (Make sure to include flag wrapper)
