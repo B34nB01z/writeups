@@ -19,5 +19,35 @@ So... considering this, we concluded that the first step of getting the flag was
 You can simply use [RSACtfTool](https://github.com/Ganapati/RsaCtfTool) for this:
 
 ```bash
-python27 RsaCtfTool.py -e101 -n52035749 --uncipher 
+python27 RsaCtfTool.py -e101 -n52035749 --uncipher 23441987
 ```
+
+```txt
+Unciphered data :
+HEX : 0x02e98cd7
+INT (big endian) : 48860375
+INT (little endian) : 3616336130
+STR : b'\x02\xe9\x8c\xd7'
+```
+
+```bash
+python27 RsaCtfTool.py -e101 -n52035749 --uncipher 31018357
+```
+
+```txt
+Unciphered data :
+HEX : 0x23aefe
+INT (big endian) : 2338558
+INT (little endian) : 16690723
+STR : b'#\xae\xfe'
+HEX : 0x0023aefe
+INT (big endian) : 2338558
+INT (little endian) : 4272825088
+STR : b'\x00#\xae\xfe'
+```
+
+... all that was left to do now, was to take the `INT (big endian)` results, divide them by the last lucky number, and enter the resulting GPS coordinates on Google Maps:
+
+![Louvre](./louvre.png)
+
+... the flag therefore was: `Louvre`
