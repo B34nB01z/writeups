@@ -27,6 +27,8 @@ It was great fun participating in this CTF and we will definitely return next ye
 
 * **Misc**
   * [450pts - Bashing My Head](Bashing%20My%20Head/README.md)
+* **Crypto**
+  * [450pts - (un)F0r7un@t3]()
 
 ---
 

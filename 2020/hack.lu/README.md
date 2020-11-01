@@ -31,7 +31,7 @@ To summarize, in my opinion, this was one of the most enjoyable CTFs this year!
 
 * **Misc**
   * [127pts - Callboy](Callboy/README.md)
-  * [190pts - P*rn Protocol](P*rn%20Protocol/README.md)
+  * [190pts - P*rn Protocol](Prn%20Protocol/README.md)
 * **Pwn**
   * [194pts - Secret Pwnhub Academy Rewards Club](Secret%20Pwnhub%20Academy%20Rewards%20Club/README.md)
   * [312pts - Secret Pwnhub Academy Rewards Club 2](Secret%20Pwnhub%20Academy%20Rewards%20Club%202/README.md)
