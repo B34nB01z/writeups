@@ -40,6 +40,7 @@ It was great fun participating in this CTF and we will definitely return next ye
 * **Password-cracking**
   * [225pts - Me, Myself, and I](Me,%20Myself,%20and%20I/README.md)
   * [225pts - supa secure](supa%20secure/README.md)
+  * [400pts - Hash Browns](Hash%20Browns/README.md)
 
 ---
 
