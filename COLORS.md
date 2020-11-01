@@ -27,6 +27,7 @@ This document contains the corresponding color codes for the different CTF categ
 | Steganography | #ffec00 | ![color](https://via.placeholder.com/15/ffec00/000000?text=+) |
 | Traffic Analysis | #2e00ff | ![color](https://via.placeholder.com/15/2e00ff/000000?text=+) |
 | Web | #0042ff | ![color](https://via.placeholder.com/15/0042ff/000000?text=+) |
+| Password-cracking | #780707 | ![color](https://via.placeholder.com/15/780707/000000?text=+) |
 
 **Please always use ![color](https://via.placeholder.com/15/90c0f0/000000?text=+) #9cf for the points!**
 
