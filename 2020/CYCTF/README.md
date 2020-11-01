@@ -28,10 +28,11 @@ It was great fun participating in this CTF and we will definitely return next ye
 * **Misc**
   * [125pts - Lorem Ipsum](Lorem%20Ipsum/README.md)
   * [450pts - Bashing My Head](Bashing%20My%20Head/README.md)
+  * [500pts - Around the World](Around%20the%20World/README.md)
 * **Crypto**
   * [450pts - (un)F0r7un@t3](unfortunate/README.md)
 * **OSINT**
-  * [150pts - Back to the Future IV](Back to the Future IV/README.md)
+  * [150pts - Back to the Future IV](Back%20to%20the%20Future%20IV/README.md)
 
 ---
 
