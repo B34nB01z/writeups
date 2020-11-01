@@ -1,4 +1,4 @@
-# Callboy
+# Bashing My Head
 
 ![Misc](https://img.shields.io/badge/Misc--ff0049?style=for-the-badge) ![Points - 450](https://img.shields.io/badge/Points-450-9cf?style=for-the-badge)
 
