@@ -31,6 +31,9 @@ It was great fun participating in this CTF and we will definitely return next ye
   * [250pts - Overflow 3](Overflow%203/README.md)
   * [300pts - FormatS](FormatS/README.md)
 * **Crypto**
+  * [50pts - Beware the Idles of March](Beware%20the%20Idles%20of%20March/README.md)
+  * [125pts - Home Base](Home%20Base/README.md)
+  * [200pts - Sus](Sus/README.md)
   * [450pts - (un)F0r7un@t3](unfortunate/README.md)
 * **Forensics**
   * [225pts - Flag delivery](Flag%20delivery/README.md)
