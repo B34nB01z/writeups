@@ -21,7 +21,7 @@ The CTF will run from October 30th to November 1st
 
 ## Conclusion
 
-It was great fun participating in this CTF and we will definitely return next year!
+It was great fun participating in this CTF and we will definitely return next year! (_Sadly we never finished the writeups for all challenges we solved, so you'll only find a few here ... :o_)
 
 ## Index
 
