@@ -17,7 +17,9 @@ Please, feel free to point out any errors you may find or suggestions you want t
   * [Hack.lu CTF](2020/hack.lu/README.md)
   * [Syskron Security CTF](2020/Syskron/README.md)
   * [CyberYoddha CTF](2020/CYCTF/README.md)
+* **2021**
+  * [TrollCAT CTF](2021/TrollCAT/README.md)
 
 ---
 
-... B34nB01z (October 2020)
+... B34nB01z (February 2021)
