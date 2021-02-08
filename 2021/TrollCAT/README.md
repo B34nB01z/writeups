@@ -27,7 +27,8 @@ Pretty fun most of the time - some cool and interesting challenges!
 
 ## Index
 
-_to be added_
+* **Forensics**
+  * [100pts - Forbidden](Forbidden/README.md)
 
 ---
 
