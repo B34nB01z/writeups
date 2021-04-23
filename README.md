@@ -19,6 +19,7 @@ Please, feel free to point out any errors you may find or suggestions you want t
   * [CyberYoddha CTF](2020/CYCTF/README.md)
 * **2021**
   * [TrollCAT CTF](2021/TrollCAT/README.md)
+  * [Cyber Apocalypse](2021/CyberApocalypse/README.md)
 
 ---
 
