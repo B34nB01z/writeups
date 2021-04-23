@@ -29,7 +29,7 @@ This document contains the corresponding color codes for the different CTF categ
 | Web | #0042ff | ![color](https://via.placeholder.com/15/0042ff/000000?text=+) |
 | Password-cracking | #780707 | ![color](https://via.placeholder.com/15/780707/000000?text=+) |
 
-**Please always use ![color](https://via.placeholder.com/15/90c0f0/000000?text=+) #9cf for the points!**
+**Please always use ![color](https://via.placeholder.com/15/eaeaea/000000?text=+) #eaeaea for the points!**
 
 ---
 
